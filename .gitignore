@@ -1,0 +1,11 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pfx
+*.p12
+*.key
+*.pem
+upx.exe
