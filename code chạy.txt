@@ -1,5 +1,0 @@
-Poweshell folder
-
-
-Remove-Item -Recurse -Force bin, obj -ErrorAction SilentlyContinue
-dotnet publish -c Release -r win-x64
